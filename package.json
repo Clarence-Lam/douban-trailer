@@ -1,0 +1,27 @@
+{
+  "name": "douban-trailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clarence-Lam/douban-trailer.git"
+  },
+  "keywords": [
+    "movie",
+    "tralier"
+  ],
+  "author": "Clarence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clarence-Lam/douban-trailer/issues"
+  },
+  "homepage": "https://github.com/Clarence-Lam/douban-trailer#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
