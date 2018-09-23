@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/Clarence-Lam/douban-trailer#readme",
   "dependencies": {
-    "koa": "^2.5.3"
+    "ejs": "^2.6.1",
+    "koa": "^2.5.3",
+    "koa-views": "^6.1.4",
+    "pug": "^2.0.3"
   }
 }
